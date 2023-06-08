@@ -79,7 +79,7 @@ class _NewExpenseState extends State<NewExpense> {
             'Invalid Details',
           ),
           content: const Text(
-            'Please make sure you have provided the details and its not empty!',
+            'Please make sure you have provided all the details in the corrrect format!',
           ),
           actions: [
             TextButton(
